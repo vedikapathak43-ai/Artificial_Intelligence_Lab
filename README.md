@@ -46,7 +46,7 @@
    b. Use the command **$git status** to verify the status of local github repository.
 
    c. Use the command **$git add filename** to add the created file in local git environment.
-   [gitadd command](images/gitcommand-1.png)
+   ![gitadd command](images/gitcommand-1.png)
 
    d. Use the command **$git commit -m "message string"** to commit the changes.
 
