@@ -58,7 +58,7 @@
 
    a. Use the command **$git push** to push the local updates to the remote github repository.
 
-   ![gitcommit command](images/gitcommand-3.png)
+   ![gitpush command](images/gitcommand-3.png)
 
    b. Enter the user credneitals of github account.
 
