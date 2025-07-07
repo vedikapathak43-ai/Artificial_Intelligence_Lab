@@ -61,7 +61,9 @@
    ![gitpush command](images/gitcommand-3.png)
 
    b. Enter the user credneitals of github account.
-
+   ![github user](images/GithubLoginUser.png)
+   
+   ![github password](images/GithubLoginPasswordWindow.png)
    
 
    c. Verify the updated remote github repository.
