@@ -52,6 +52,8 @@
 
    e. Use the command **$git config --global user.email "email-id" and $git config --global user.name "name"** to configure the local git environment for authenticity
 
+   ![gitcommit command](images/gitcommand-2.png)
+
 ## 5. Push the updated cloned local repository to remote github repository
 
    a. Use the command **$git push** to push the local updates to the remote github repository.
